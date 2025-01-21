@@ -182,12 +182,4 @@ In a relatively short period of time, you have created a new project in Azure De
 
 **IMPORTANT: Head back over to your forked repo and check out the file "azure-pipelines.yml". You should see the line "trigger: – master" which means every time we make a change to the master branch, a new build will kick off automatically. Magic!**
 
-Now that you have a fully working application deployed to AKS, I bet you can't wait to dive in and see how it all works under the hood.
 
-# Thank you
-
-Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
-
-### Ensure to follow me on GitHub. Please star/share this repository
